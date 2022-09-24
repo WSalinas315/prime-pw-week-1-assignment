@@ -19,7 +19,7 @@ I would expect no output for an empty directory and a list of the files for a po
 Using the touch command
 
 # 7 - Run 'git --version' in your terminal. What is the output?
-git version 2.15.0
+git version 2.33.0
 
 # 8 - Why would you run the command 'git status'?
 To check which code changes have been staged and see if all files are ready to be committed. 
